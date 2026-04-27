@@ -1,6 +1,18 @@
 # -----semester 2 relevant courses include: ------
 #
-# Quantity Estimation_W26 - Instructor: Imad Khalafalla
+# Material Science - Instructor: Michael Scott
+The course introduces us to construction materials, including types of soils, aggregates involved in concrete and asphalt mix, and their applications in civil engineering projects. We're introduced to engineering standards and the standard test methods associated with these construction materials.
+- Lab Report 1:  JAN 26,2026
+- self help [sheet](https://docs.google.com/spreadsheets/d/1wM6OioK_ww8tn9C3gYnK_4ItMecXmB1ByvR8ioNlLek/edit?usp=sharing)
+👉 Atterberg Limit lab
+👉 Compaction lab
+👉 Unreinforced Concrete Best Mix lab
+
+👉 Ashphalt lab
+
+
+
+# Quantity Estimation - Instructor: Imad Khalafalla
 The course introduces me to Excel spreadsheets, tender documents, the reading of engineering drawings and basic estimation techniques.  
 Critical Thinking, Problem Solving, Numeracy, Information Management, and Communication are the skills I need for the 21st century Civil Engineering workplace.
 
@@ -20,7 +32,7 @@ WEEK 4: Math rounding & Trig functions, VLookup and HLookup functions, Logical (
 WEEK 5: Text and Information function
   - concatenate(), replace(), locate()
 #
-# Codes and Standards_W26 - Instructor: Tim Gignac
+# Codes and Standards - Instructor: Tim Gignac
 We develop understanding and application of practical standards from organizations such as the Ministry of Transportation Ontario (MTO), Ontario Provincial Standards (OPS), and municipal requirements. We then explore the application of these standards in CAD design and Appendix specification writing. 
 Topics includes:
 - Ministry of Transportation Ontario (MTO); Geometric Design Standards and Drainage Management Manuals
@@ -49,12 +61,7 @@ Week 4: OPSD
 Week 5: Test 1
   - self help [sheet](https://docs.google.com/spreadsheets/d/1JWM4qjFOEb8oMxvGGZm1lAUJC5VtgVyHRrUddHGq82A/edit?usp=sharing) for finding Outer diameter Reinforce Concrete Pipe sizing
 
-# Material Science - Instructor: Michael Scott
-The course introduces us to construction materials, including types of soils, aggregates involved in concrete and asphalt mix, and their applications in civil engineering projects. We're introduced to engineering standards and the standard test methods associated with these construction materials.
-- Lab Report 1:  JAN 26,2026
-- self help [sheet](https://docs.google.com/spreadsheets/d/1wM6OioK_ww8tn9C3gYnK_4ItMecXmB1ByvR8ioNlLek/edit?usp=sharing)
-👉 Atterberg Limit lab data
-👉 Compaction lab Data 
+ 
 
 # Force Analysis Physics, Statics - Instructor: Ryan Habkirk
 We explore structures’ behavior in static equilibrium, we evaluate external and internal reaction forces due to applied forces and reaction forces in members and joints of a structure.
