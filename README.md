@@ -1,4 +1,4 @@
-# ----- Winter 2026 semester relevant courses include: ------
+# -----semester 2 relevant courses include: ------
 #
 # Quantity Estimation_W26 - Instructor: Imad Khalafalla
 The course introduces me to Excel spreadsheets, tender documents, the reading of engineering drawings and basic estimation techniques.  
