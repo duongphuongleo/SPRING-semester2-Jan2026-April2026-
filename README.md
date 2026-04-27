@@ -4,6 +4,7 @@
 The course introduces us to construction materials, including types of soils, aggregates involved in concrete and asphalt mix, and their applications in civil engineering projects. We're introduced to engineering standards and the standard test methods associated with these construction materials.
 - Lab Report 1:  JAN 26,2026
 - self help [sheet](https://docs.google.com/spreadsheets/d/1wM6OioK_ww8tn9C3gYnK_4ItMecXmB1ByvR8ioNlLek/edit?usp=sharing)
+
 👉 Atterberg Limit lab
 👉 Compaction lab
 👉 Unreinforced Concrete Best Mix lab
