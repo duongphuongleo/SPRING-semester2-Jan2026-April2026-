@@ -6,8 +6,16 @@ The course introduces us to construction materials, including types of soils, ag
 - self help [sheet](https://docs.google.com/spreadsheets/d/1wM6OioK_ww8tn9C3gYnK_4ItMecXmB1ByvR8ioNlLek/edit?usp=sharing)
 
 👉 Atterberg Limit lab
+
 👉 Compaction lab
+
 👉 Unreinforced Concrete Best Mix lab
+- [CONCRETE LAB REPORT 3_CONS1004-26W.pdf](https://github.com/user-attachments/files/27172549/CONCRETE.LAB.REPORT.3_CONS1004-26W.pdf)
+- Word Document [redirect](https://georgiancollege-my.sharepoint.com/:w:/g/personal/200639353_student_georgianc_on_ca/IQB5BnkSmuCASL9Ux2dnfobWAV_ZGS_6CTajcrZb-6A5b2k?e=EZBnT3)
+- Mr. Scott Announcement for the final table of summary:[Mr.Scott Outlook Announcement & in-class yesterday March23_Highest MPa Concrete sample.pdf](https://github.com/user-attachments/files/27173195/Mr.Scott.Outlook.Announcement.in-class.yesterday.March23_Highest.MPa.Concrete.sample.pdf)
+
+- other class sessions testing result:[2026 MPa Final Summary.pdf](https://github.com/user-attachments/files/27173169/2026.MPa.Final.Summary.pdf)
+
 
 👉 Ashphalt lab
 
@@ -37,19 +45,28 @@ WEEK 5: Text and Information function
 We develop understanding and application of practical standards from organizations such as the Ministry of Transportation Ontario (MTO), Ontario Provincial Standards (OPS), and municipal requirements. We then explore the application of these standards in CAD design and Appendix specification writing. 
 Topics includes:
 - Ministry of Transportation Ontario (MTO); Geometric Design Standards and Drainage Management Manuals
-- 👉 Transportation Association of Canada (TAC); Geometric Design for Canadian Roads
+
+👉 Transportation Association of Canada (TAC); Geometric Design for Canadian Roads
 
 - Ontario Provincial Standards (OPS), OPSSpecification and OPSDrawings
 
-- Ministry of the Environment, Conservation and Parks (MECP); Design Guidelines for Sewage and for Drinking Water, Stormwater Management Design Manuals
-Conservation Authorities; Lake Simcoe Region Conservation Authority (LSRCA), Lake Simcoe Protection Plan (LSPP), and Nottawasaga Conservation Authority (NVCA)
-- 👉 Low Impact Development (LID) and Sustainable Technologies Evaluation Program (STEP)
+- Ministry of the Environment, Conservation and Parks (MECP)
+-> Design Guidelines for Sewage and for Drinking Water, Stormwater Management Design Manuals
+- Conservation Authorities
+-> Lake Simcoe Region Conservation Authority (LSRCA)
+-> Lake Simcoe Protection Plan (LSPP), and Nottawasaga Conservation Authority (NVCA)
+
+👉 Low Impact Development (LID) and Sustainable Technologies Evaluation Program (STEP)
 
 - Ontario Building Code (OBC)
-- 👉 Municipal Class Septic Design
-- 👉 Accessibility for Ontarians with Disabilities Act (AODA)
+👉 Municipal Class Septic Design
+
+👉 Accessibility for Ontarians with Disabilities Act (AODA)
 
 - Roadside safety 3hr hybrid session (Book 7) externally provided by Safety Co. Partners
+
+
+
 
 Week 1: Course Introduction, In-class discussion related to the creation and requirements for Codes and Standards
 
@@ -63,6 +80,10 @@ Week 5: Test 1
   - self help [sheet](https://docs.google.com/spreadsheets/d/1JWM4qjFOEb8oMxvGGZm1lAUJC5VtgVyHRrUddHGq82A/edit?usp=sharing) for finding Outer diameter Reinforce Concrete Pipe sizing
 
  
+# AutoCAD 2 - Instructor: Tim Gignac
+
+
+
 
 # Force Analysis Physics, Statics - Instructor: Ryan Habkirk
 We explore structures’ behavior in static equilibrium, we evaluate external and internal reaction forces due to applied forces and reaction forces in members and joints of a structure.
