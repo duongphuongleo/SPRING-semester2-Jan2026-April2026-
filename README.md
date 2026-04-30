@@ -44,26 +44,29 @@ WEEK 5: Text and Information function
 # Codes and Standards - Instructor: Tim Gignac
 We develop understanding and application of practical standards from organizations such as the Ministry of Transportation Ontario (MTO), Ontario Provincial Standards (OPS), and municipal requirements. We then explore the application of these standards in CAD design and Appendix specification writing. 
 Topics includes:
-- Ministry of Transportation Ontario (MTO); Geometric Design Standards and Drainage Management Manuals
 
-👉 Transportation Association of Canada (TAC); Geometric Design for Canadian Roads
+👉 Ministry of Transportation Ontario (MTO); Geometric Design Standards and Drainage Management Manuals
 
-- Ontario Provincial Standards (OPS), OPSSpecification and OPSDrawings
+  - Transportation Association of Canada (TAC); Geometric Design for Canadian Roads
 
-- Ministry of the Environment, Conservation and Parks (MECP)
--> Design Guidelines for Sewage and for Drinking Water, Stormwater Management Design Manuals
-- Conservation Authorities
--> Lake Simcoe Region Conservation Authority (LSRCA)
--> Lake Simcoe Protection Plan (LSPP), and Nottawasaga Conservation Authority (NVCA)
+👉 Ontario Provincial Standards (OPS), OPSSpecification and OPSDrawings
+
+👉 Ministry of the Environment, Conservation and Parks (MECP); Conservation Authorities
+- Design Guidelines for: Sewage and Drinking Water
+- Stormwater Management (SWM) Design Manuals
+
+👉 Conservation Authorities
+- Lake Simcoe Region Conservation Authority (LSRCA); Lake Simcoe Protection Plan (LSPP),
+- Nottawasaga Conservation Authority (NVCA)
 
 👉 Low Impact Development (LID) and Sustainable Technologies Evaluation Program (STEP)
 
-- Ontario Building Code (OBC)
-👉 Municipal Class Septic Design
+👉 Ontario Building Code (OBC); Accessibility for Ontarians with Disabilities Act (AODA) 
+- Septic Design
 
-👉 Accessibility for Ontarians with Disabilities Act (AODA)
 
-- Roadside safety 3hr hybrid session (Book 7) externally provided by Safety Co. Partners
+
+👉 Roadside safety 3hr hybrid session (Book 7) externally provided by Safety Co. Partners
 
 
 
@@ -81,7 +84,31 @@ Week 5: Test 1
 
  
 # AutoCAD 2 - Instructor: Tim Gignac
+👉 Final Group Project (week 12-14)
+- CAD options: Parking lot grading, Plan & Profile
+- Presentation
 
+❖ Group final CAD submission: Plan & Profile, Fri April 10 at 6:50pm
+- include my input for the silt fence perimeter re set-up as learn from feedback on Erosion & Sediment Control (ESC) plan assignment
+- my assigned task carried out (reorganize OPS Detail Sheets and compose the submission drawing)
+
+
+❖ Jack's CAD submission 1: Fri April 10 at 4pm
+- 1 day ahead of due date
+- on behalf of Jason's mutual group order 
+
+❖ Presentation
+- DRAFT instruction:[CAD Group Project - Presentation Details (DRAFT).pdf](https://github.com/user-attachments/files/27249260/CAD.Group.Project.-.Presentation.Details.DRAFT.pdf)
+
+Submission 1
+- [Presentation submission 1.pdf](https://github.com/user-attachments/files/27251254/Presentation.submission.1.pdf)
+- [GROUP 6 project presentation_Jason starting template.pptx](https://github.com/user-attachments/files/27251262/GROUP.6.project.presentation_Jason.starting.template.pptx)
+
+
+
+Submission 2: Keep the required agenda materials, but kept in mind what Tim's said: show up to present our work to potential Client(s) -> less "too technical", more "interest the people in a client meeting" (and have Tim himself attended as the Contract Supervisor)
+- Refer to Google Earth to experience slide 21's video of 3D view at: Yonge St at MacMillan Cresent
+- [Final-Group6-CAD-Project Presentation-submission2.pdf](https://github.com/user-attachments/files/27250934/Final-Group6-CAD-Project.Presentation-submission2.pdf)
 
 
 
@@ -90,3 +117,8 @@ We explore structures’ behavior in static equilibrium, we evaluate external an
 
 # Surveying 2 - Instructor: Joseph Markovic
 Expanding upon the topics from SURV1001, we continue to develop intricate surveying skills.
+
+# Dynamic Presentation; Dynamic Communication - Online, Instructor: Amanda Quibell
+❖ We practiced self and peer evaluation to improve presentation skills and are expected to develop professionalism as speakers and listeners in order to meet the learning outcomes.
+
+❖ In this course, we had design and deliver a series of presentations that build our skills in storytelling, “how to” explanations, persuasion, and visual communication. The focus stays on clarity, audience connection, and using their voice and media in ways that support the speaker, not just slides.
