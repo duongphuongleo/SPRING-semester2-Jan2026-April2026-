@@ -95,7 +95,7 @@ Week 5: Test 1
 
 ❖ Jack's CAD submission 1: Fri April 10 at 4pm
 - 1 day ahead of due date
-- on behalf of Jason's mutual group order 
+
 
 ❖ Presentation
 - DRAFT instruction:[CAD Group Project - Presentation Details (DRAFT).pdf](https://github.com/user-attachments/files/27249260/CAD.Group.Project.-.Presentation.Details.DRAFT.pdf)
