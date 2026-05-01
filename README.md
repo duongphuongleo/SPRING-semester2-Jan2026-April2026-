@@ -1,9 +1,9 @@
 # -----semester 2 relevant courses include: ------
 #
-# Material Science - Instructor: Michael Scott
+# Material Science - Instructor: Michael Scott 
 The course introduces us to construction materials, including types of soils, aggregates involved in concrete and asphalt mix, and their applications in civil engineering projects. We're introduced to engineering standards and the standard test methods associated with these construction materials.
-- Lab Report 1:  JAN 26,2026
-- self help [sheet](https://docs.google.com/spreadsheets/d/1wM6OioK_ww8tn9C3gYnK_4ItMecXmB1ByvR8ioNlLek/edit?usp=sharing)
+
+
 
 👉 Atterberg Limit lab
 
@@ -124,7 +124,7 @@ Week 5: Test 1
 
 
 ❖ Group final CAD submission: Plan & Profile, Fri April 10 at 6:50pm
-- include my input for: the silt fence perimeter re set-up (as learn from feedback on Erosion & Sediment Control (ESC) plan assignment)
+- include my input for: the silt fence perimeter re set-up (as learn from Final Test's feedback on Erosion & Sediment Control (ESC))
 - my assigned task carried out (reorganize OPS Detail Sheets and compose the submission drawing)
 
 [Plan & Profile_GROUP 6-DETAIL SHEET 2.pdf](https://github.com/user-attachments/files/27278396/Plan.Profile_GROUP.6-DETAIL.SHEET.2.pdf)
@@ -142,16 +142,12 @@ AutoCAD file:
 REFERENCE DOCUMENTS
 - City of Barrie Infrastructure Design Standard (Code & Standard week 10)
 - OPS Library [Website](https://www.library.mto.gov.on.ca/SydneyPLUS/TechPubs/Portal/tp/opsViews.aspx)
-
 [OPS Index - Vol 3 - Rev 86 - Nov 2025.pdf](https://github.com/user-attachments/files/27279181/OPS.Index.-.Vol.3.-.Rev.86.-.Nov.2025.pdf)
 
 R.Of.Way, Storm, Sanitary, Drinking-Water   Infrastructure-Design-Standard
 
 
-
-
-❖ Presentation
-- DRAFT instruction:[CAD Group Project - Presentation Details (DRAFT).pdf](https://github.com/user-attachments/files/27249260/CAD.Group.Project.-.Presentation.Details.DRAFT.pdf)
+❖ Presentation DRAFT instruction:[CAD Group Project - Presentation Details (DRAFT).pdf](https://github.com/user-attachments/files/27249260/CAD.Group.Project.-.Presentation.Details.DRAFT.pdf)
 
 Submission 1
 - [Presentation submission 1.pdf](https://github.com/user-attachments/files/27251254/Presentation.submission.1.pdf)
@@ -162,6 +158,12 @@ Submission 1
 Submission 2: Keep the required agenda materials, but kept in mind what Tim's said: show up to present our work to potential Client(s) -> less "too technical", more "ppropose the development" (and have Tim himself attended as the Contract Supervisor)
 - Refer to Google Earth to experience slide 21's video of 3D view at: Yonge St at MacMillan Cresent
 - [Final-Group6-CAD-Project Presentation-submission2.pdf](https://github.com/user-attachments/files/27250934/Final-Group6-CAD-Project.Presentation-submission2.pdf)
+
+👉 Final Test: Parking lot grading, Servicing underground network, ESC
+
+
+👉 Erosion & Sediment Control (ESC) and Detail Sheets - WEEK 10
+
 
 
 # Force Analysis Physics, Statics - Instructor: Ryan Habkirk
@@ -190,3 +192,6 @@ Expanding upon the topics from SURV1001, we continue to develop intricate survey
 ❖ We practiced self and peer evaluation to improve presentation skills and are expected to develop professionalism as speakers and listeners in order to meet the learning outcomes.
 
 ❖ In this course, we had design and deliver a series of presentations that build our skills in storytelling, “how to” explanations, persuasion, and visual communication. The focus stays on clarity, audience connection, and using their voice and media in ways that support the speaker, not just slides.
+
+# Apply to Co-op
+❖ Interviewed but yet successful: GEI Consultants, Duncor Enterprises
