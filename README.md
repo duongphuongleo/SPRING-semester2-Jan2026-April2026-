@@ -66,6 +66,21 @@ Topics includes:
 - Nottawasaga Conservation Authority (NVCA)
 - WEEK 9: TEST 2
 
+👉 WEEK 10: City of Barrie and Inisfill Municipal Document
+
+618 KB, [R.Of.Way Infrastructure-Design-Standard (BARRIE).pdf](https://github.com/user-attachments/files/27279408/R.Of.Way.Infrastructure-Design-Standard.BARRIE.pdf)
+
+156 KB, [LID Guideline(BARRIE).pdf](https://github.com/user-attachments/files/27279407/LID.Guideline.BARRIE.pdf)
+
+782 KB, [Lot-Grading-and-Drainage-Infrastructure(BARRIE).pdf](https://github.com/user-attachments/files/27279403/Lot-Grading-and-Drainage-Infrastructure.BARRIE.pdf)
+
+638 KB, [Drinking-Water-Infrastructure-Design-Standard_ (BARRIE).pdf](https://github.com/user-attachments/files/27279420/Drinking-Water-Infrastructure-Design-Standard_.BARRIE.pdf)
+
+585 KB, [Sanitary-Infrastructure-Design-Standard (BARRIE).pdf](https://github.com/user-attachments/files/27279419/Sanitary-Infrastructure-Design-Standard.BARRIE.pdf)
+
+[Storm-Infrastructure-Design-Standard (BARRIE), 39.2MB = TOO BIG TO UPLOAD ON GITHUB's MAX FILE SIZE OF 10MB
+
+
 👉 Low Impact Development (LID) and Sustainable Technologies Evaluation Program (STEP) - WEEK 11
 - WEEK 12: In class Group exercise with Barrett Groos in finding LID feature according to situational questions
 
@@ -85,7 +100,8 @@ Week 3: Book 7 Training,
 Week 4: OPSD 
 
 Week 5: Test 1
-  - self help [sheet](https://docs.google.com/spreadsheets/d/1JWM4qjFOEb8oMxvGGZm1lAUJC5VtgVyHRrUddHGq82A/edit?usp=sharing) for finding Outer diameter Reinforce Concrete Pipe sizing
+  - thought to be helpful, but not allow to access Internet other than to dowload necessary documents prior to test time at the start of class
+  - [sheet](https://docs.google.com/spreadsheets/d/1JWM4qjFOEb8oMxvGGZm1lAUJC5VtgVyHRrUddHGq82A/edit?usp=sharing) for finding Outer diameter Reinforce Concrete Pipe sizing
 
  
 # AutoCAD 2 - Instructor: Tim Gignac
@@ -123,7 +139,19 @@ Week 5: Test 1
 
 AutoCAD file: 
 
-City of Barrie Infrastructure Design Standard (Code & Standard week 10)
+REFERENCE DOCUMENTS
+- City of Barrie Infrastructure Design Standard (Code & Standard week 10)
+- OPS Library [Website](https://www.library.mto.gov.on.ca/SydneyPLUS/TechPubs/Portal/tp/opsViews.aspx)
+
+[OPS Index - Vol 3 - Rev 86 - Nov 2025.pdf](https://github.com/user-attachments/files/27279181/OPS.Index.-.Vol.3.-.Rev.86.-.Nov.2025.pdf)
+
+R.Of.Way Infrastructure-Design-Standard
+
+Sanitary-Infrastructure-Design-Standard
+
+Drinking-Water-Infrastructure-Design-Standard
+
+
 
 
 
