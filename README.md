@@ -145,13 +145,7 @@ REFERENCE DOCUMENTS
 
 [OPS Index - Vol 3 - Rev 86 - Nov 2025.pdf](https://github.com/user-attachments/files/27279181/OPS.Index.-.Vol.3.-.Rev.86.-.Nov.2025.pdf)
 
-R.Of.Way Infrastructure-Design-Standard
-
-Sanitary-Infrastructure-Design-Standard
-
-Drinking-Water-Infrastructure-Design-Standard
-
-
+R.Of.Way, Storm, Sanitary, Drinking-Water   Infrastructure-Design-Standard
 
 
 
@@ -165,14 +159,29 @@ Submission 1
 
 
 
-Submission 2: Keep the required agenda materials, but kept in mind what Tim's said: show up to present our work to potential Client(s) -> less "too technical", more "interest the client" (and have Tim himself attended as the Contract Supervisor)
+Submission 2: Keep the required agenda materials, but kept in mind what Tim's said: show up to present our work to potential Client(s) -> less "too technical", more "ppropose the development" (and have Tim himself attended as the Contract Supervisor)
 - Refer to Google Earth to experience slide 21's video of 3D view at: Yonge St at MacMillan Cresent
 - [Final-Group6-CAD-Project Presentation-submission2.pdf](https://github.com/user-attachments/files/27250934/Final-Group6-CAD-Project.Presentation-submission2.pdf)
-- 
 
 
 # Force Analysis Physics, Statics - Instructor: Ryan Habkirk
 We explore structures’ behavior in static equilibrium, we evaluate external and internal reaction forces due to applied forces and reaction forces in members and joints of a structure.
+
+- WEEK 1: Intro to course and Math review of semester 1 Physics 1 &
+- WEEK 2: Moments/Torque
+- WEEK 3: Centroid of Shapes, basic shapes: rect. & triangle, composite shapes: complex shape compose from basic shapes
+- WEEK 4: Quiz 1, Equlilibrium part1 (Sum of x-component forces = 0, Sum of y-component forces = 0, Sum of Moments = 0)
+- WEEK 5: Equilibrium part2
+- WEEK 6:
+- WEEK 7: Mid Term Quiz & Study Week (Feb23-Feb27)
+- WEEK 8: Cables & Pulleys, (analyze 1-by-1 by FBD of each pulley, solve for reaction force at the ceiling's attachment point
+- WEEK 9: Truss Analysis (Method of Joints)
+- WEEK 10: Quiz 2 Review
+- WEEK 11: Truss Analysis (Method of Sections), Zero force member
+- WEEK 12: Method of Section Part2
+- WEEK 13: Final Quiz Review
+- WEEk 14: Final Day1 (calble&pulleys, beams equilibrium, method of section)
+- WEEK 14: Final Day2 (method of joint)
 
 # Surveying 2 - Instructor: Joseph Markovic
 Expanding upon the topics from SURV1001, we continue to develop intricate surveying skills.
