@@ -93,6 +93,20 @@ Week 5: Test 1
 - CAD options: Parking lot grading, Plan & Profile
 - Presentation
 
+❖ Jack's CAD submission 1: Fri April 10 at 4pm
+- 1 day ahead of due date
+
+[EROSION CONTROL PLAN GROUP 6.pdf](https://github.com/user-attachments/files/27279039/EROSION.CONTROL.PLAN.GROUP.6.pdf)
+
+[DETAIL SHEET 2.pdf](https://github.com/user-attachments/files/27279049/DETAIL.SHEET.2.pdf)
+
+[DETAIL SHEET 1.pdf](https://github.com/user-attachments/files/27279047/DETAIL.SHEET.1.pdf)
+
+[P&P STREET A.pdf](https://github.com/user-attachments/files/27279046/P.P.STREET.A.pdf)
+
+[P&P STREET B.pdf](https://github.com/user-attachments/files/27279045/P.P.STREET.B.pdf)
+
+
 ❖ Group final CAD submission: Plan & Profile, Fri April 10 at 6:50pm
 - include my input for: the silt fence perimeter re set-up (as learn from feedback on Erosion & Sediment Control (ESC) plan assignment)
 - my assigned task carried out (reorganize OPS Detail Sheets and compose the submission drawing)
@@ -111,8 +125,6 @@ AutoCAD file:
 
 City of Barrie Infrastructure Design Standard (Code & Standard week 10)
 
-❖ Jack's CAD submission 1: Fri April 10 at 4pm
-- 1 day ahead of due date
 
 
 
