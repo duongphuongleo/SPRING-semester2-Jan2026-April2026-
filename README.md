@@ -45,30 +45,35 @@ WEEK 5: Text and Information function
 We develop understanding and application of practical standards from organizations such as the Ministry of Transportation Ontario (MTO), Ontario Provincial Standards (OPS), and municipal requirements. We then explore the application of these standards in CAD design and Appendix specification writing. 
 Topics includes:
 
-👉 Ministry of Transportation Ontario (MTO); Geometric Design Standards and Drainage Management Manuals
-
-  - Transportation Association of Canada (TAC); Geometric Design for Canadian Roads
-
 👉 Ontario Provincial Standards (OPS), OPSSpecification and OPSDrawings
+- Week 2: OPSS
+- Week 4: OPSD
+- WEEK 5: TEST 1 (OPS documents, Book 7 training booklet)
 
-👉 Ministry of the Environment, Conservation and Parks (MECP); Conservation Authorities
+👉 Roadside safety 3hr hybrid session (Book 7) externally provided by Safety Co. Partners - WEEK 3
+
+
+👉 Ministry of the Environment, Conservation and Parks (MECP) - WEEK 6
 - Design Guidelines for: Sewage and Drinking Water
 - Stormwater Management (SWM) Design Manuals
 
-👉 Conservation Authorities
+👉 Ministry of Transportation Ontario (MTO) and Transportation Association of Canada (TAC) - WEEK 7
+- MTO: Geometric Design Standards and Drainage Management Manuals
+- TAC: Geometric Design for Canadian Roads
+
+👉 Conservation Authorities - WEEK 8
 - Lake Simcoe Region Conservation Authority (LSRCA); Lake Simcoe Protection Plan (LSPP),
 - Nottawasaga Conservation Authority (NVCA)
+- WEEK 9: TEST 2
 
-👉 Low Impact Development (LID) and Sustainable Technologies Evaluation Program (STEP)
+👉 Low Impact Development (LID) and Sustainable Technologies Evaluation Program (STEP) - WEEK 11
+- WEEK 12: In class Group exercise with Barrett Groos in finding LID feature according to situational questions
 
-👉 Ontario Building Code (OBC); Accessibility for Ontarians with Disabilities Act (AODA) 
+👉 Ontario Building Code (OBC); Accessibility for Ontarians with Disabilities Act (AODA) - WEEK 13
 - Septic Design
 
-
-
-👉 Roadside safety 3hr hybrid session (Book 7) externally provided by Safety Co. Partners
-
-
+👉 WEEK 14: FINAL
+- MATERIALS COVER SINCE WEEK 7
 
 
 Week 1: Course Introduction, In-class discussion related to the creation and requirements for Codes and Standards
@@ -91,16 +96,24 @@ Week 5: Test 1
 ❖ Group final CAD submission: Plan & Profile, Fri April 10 at 6:50pm
 - include my input for: the silt fence perimeter re set-up (as learn from feedback on Erosion & Sediment Control (ESC) plan assignment)
 - my assigned task carried out (reorganize OPS Detail Sheets and compose the submission drawing)
+
 [Plan & Profile_GROUP 6-DETAIL SHEET 2.pdf](https://github.com/user-attachments/files/27278396/Plan.Profile_GROUP.6-DETAIL.SHEET.2.pdf)
+
 [Plan & Profile_GROUP 6-DETAIL SHEET 1.pdf](https://github.com/user-attachments/files/27278395/Plan.Profile_GROUP.6-DETAIL.SHEET.1.pdf)
+
 [Plan & Profile_GROUP 6-P&P STREET B.pdf](https://github.com/user-attachments/files/27278394/Plan.Profile_GROUP.6-P.P.STREET.B.pdf)
+
 [Plan & Profile_GROUP 6-P&P STREET A.pdf](https://github.com/user-attachments/files/27278393/Plan.Profile_GROUP.6-P.P.STREET.A.pdf)
+
 [Plan & Profile_GROUP 6-EROSION.pdf](https://github.com/user-attachments/files/27278391/Plan.Profile_GROUP.6-EROSION.pdf)
 
+AutoCAD file: 
 
+City of Barrie Infrastructure Design Standard (Code & Standard week 10)
 
 ❖ Jack's CAD submission 1: Fri April 10 at 4pm
 - 1 day ahead of due date
+
 
 
 ❖ Presentation
