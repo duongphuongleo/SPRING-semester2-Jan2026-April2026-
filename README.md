@@ -89,8 +89,14 @@ Week 5: Test 1
 - Presentation
 
 ❖ Group final CAD submission: Plan & Profile, Fri April 10 at 6:50pm
-- include my input for the silt fence perimeter re set-up as learn from feedback on Erosion & Sediment Control (ESC) plan assignment
+- include my input for: the silt fence perimeter re set-up (as learn from feedback on Erosion & Sediment Control (ESC) plan assignment)
 - my assigned task carried out (reorganize OPS Detail Sheets and compose the submission drawing)
+[Plan & Profile_GROUP 6-DETAIL SHEET 2.pdf](https://github.com/user-attachments/files/27278396/Plan.Profile_GROUP.6-DETAIL.SHEET.2.pdf)
+[Plan & Profile_GROUP 6-DETAIL SHEET 1.pdf](https://github.com/user-attachments/files/27278395/Plan.Profile_GROUP.6-DETAIL.SHEET.1.pdf)
+[Plan & Profile_GROUP 6-P&P STREET B.pdf](https://github.com/user-attachments/files/27278394/Plan.Profile_GROUP.6-P.P.STREET.B.pdf)
+[Plan & Profile_GROUP 6-P&P STREET A.pdf](https://github.com/user-attachments/files/27278393/Plan.Profile_GROUP.6-P.P.STREET.A.pdf)
+[Plan & Profile_GROUP 6-EROSION.pdf](https://github.com/user-attachments/files/27278391/Plan.Profile_GROUP.6-EROSION.pdf)
+
 
 
 ❖ Jack's CAD submission 1: Fri April 10 at 4pm
@@ -106,10 +112,10 @@ Submission 1
 
 
 
-Submission 2: Keep the required agenda materials, but kept in mind what Tim's said: show up to present our work to potential Client(s) -> less "too technical", more "interest the people in a client meeting" (and have Tim himself attended as the Contract Supervisor)
+Submission 2: Keep the required agenda materials, but kept in mind what Tim's said: show up to present our work to potential Client(s) -> less "too technical", more "interest the client" (and have Tim himself attended as the Contract Supervisor)
 - Refer to Google Earth to experience slide 21's video of 3D view at: Yonge St at MacMillan Cresent
 - [Final-Group6-CAD-Project Presentation-submission2.pdf](https://github.com/user-attachments/files/27250934/Final-Group6-CAD-Project.Presentation-submission2.pdf)
-
+- 
 
 
 # Force Analysis Physics, Statics - Instructor: Ryan Habkirk
