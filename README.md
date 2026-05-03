@@ -5,11 +5,11 @@ The course introduces us to construction materials, including types of soils, ag
 
 
 
-👉 Atterberg Limit lab
+👉 Atterberg Limit lab & Compaction lab 1
 
-👉 Compaction lab
+👉 Aggregates Physical lab 2 (sorting by unwanted physical shapes, texture contaminant with asphalt)
 
-👉 Unreinforced Concrete Best Mix lab
+👉 Unreinforced Concrete Best Mix lab 3 
 - [CONCRETE LAB REPORT 3_CONS1004-26W.pdf](https://github.com/user-attachments/files/27172549/CONCRETE.LAB.REPORT.3_CONS1004-26W.pdf)
 - Word Document [redirect](https://georgiancollege-my.sharepoint.com/:w:/g/personal/200639353_student_georgianc_on_ca/IQB5BnkSmuCASL9Ux2dnfobWAV_ZGS_6CTajcrZb-6A5b2k?e=EZBnT3)
 - Mr. Scott Announcement for the final table of summary:[Mr.Scott Outlook Announcement & in-class yesterday March23_Highest MPa Concrete sample.pdf](https://github.com/user-attachments/files/27173195/Mr.Scott.Outlook.Announcement.in-class.yesterday.March23_Highest.MPa.Concrete.sample.pdf)
@@ -17,13 +17,13 @@ The course introduces us to construction materials, including types of soils, ag
 - other class sessions testing result:[2026 MPa Final Summary.pdf](https://github.com/user-attachments/files/27173169/2026.MPa.Final.Summary.pdf)
 
 
-👉 Ashphalt lab
+👉 Ashphalt lab 4
 
 
 
 # Quantity Estimation - Instructor: Imad Khalafalla
-The course introduces me to Excel spreadsheets, tender documents, the reading of engineering drawings and basic estimation techniques.  
-Critical Thinking, Problem Solving, Numeracy, Information Management, and Communication are the skills I need for the 21st century Civil Engineering workplace.
+The course introduces us to Excel spreadsheets, tender documents, the reading of engineering drawings and basic estimation techniques.  
+Critical Thinking, Problem Solving, Numeracy, Information Management, and Communication are the skills we need for today's Engineering workplace.
 
 WEEK 1:
 WEEK 2: IF functions
