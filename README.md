@@ -68,15 +68,15 @@ Topics includes:
 
 👉 WEEK 10: City of Barrie and Inisfill Municipal Document
 
-618 KB, [R.Of.Way Infrastructure-Design-Standard (BARRIE).pdf](https://github.com/user-attachments/files/27279408/R.Of.Way.Infrastructure-Design-Standard.BARRIE.pdf)
+618KB, [R.Of.Way Infrastructure-Design-Standard (BARRIE).pdf](https://github.com/user-attachments/files/27279408/R.Of.Way.Infrastructure-Design-Standard.BARRIE.pdf)
 
-156 KB, [LID Guideline(BARRIE).pdf](https://github.com/user-attachments/files/27279407/LID.Guideline.BARRIE.pdf)
+156KB, [LID Guideline(BARRIE).pdf](https://github.com/user-attachments/files/27279407/LID.Guideline.BARRIE.pdf)
 
-782 KB, [Lot-Grading-and-Drainage-Infrastructure(BARRIE).pdf](https://github.com/user-attachments/files/27279403/Lot-Grading-and-Drainage-Infrastructure.BARRIE.pdf)
+782KB, [Lot-Grading-and-Drainage-Infrastructure(BARRIE).pdf](https://github.com/user-attachments/files/27279403/Lot-Grading-and-Drainage-Infrastructure.BARRIE.pdf)
 
-638 KB, [Drinking-Water-Infrastructure-Design-Standard_ (BARRIE).pdf](https://github.com/user-attachments/files/27279420/Drinking-Water-Infrastructure-Design-Standard_.BARRIE.pdf)
+638KB, [Drinking-Water-Infrastructure-Design-Standard_ (BARRIE).pdf](https://github.com/user-attachments/files/27279420/Drinking-Water-Infrastructure-Design-Standard_.BARRIE.pdf)
 
-585 KB, [Sanitary-Infrastructure-Design-Standard (BARRIE).pdf](https://github.com/user-attachments/files/27279419/Sanitary-Infrastructure-Design-Standard.BARRIE.pdf)
+585KB, [Sanitary-Infrastructure-Design-Standard (BARRIE).pdf](https://github.com/user-attachments/files/27279419/Sanitary-Infrastructure-Design-Standard.BARRIE.pdf)
 
 [Storm-Infrastructure-Design-Standard (BARRIE), 39.2MB = TOO BIG TO UPLOAD ON GITHUB's MAX FILE SIZE OF 10MB
 
@@ -147,7 +147,8 @@ REFERENCE DOCUMENTS
 R.Of.Way, Storm, Sanitary, Drinking-Water   Infrastructure-Design-Standard
 
 
-❖ Presentation DRAFT instruction:[CAD Group Project - Presentation Details (DRAFT).pdf](https://github.com/user-attachments/files/27249260/CAD.Group.Project.-.Presentation.Details.DRAFT.pdf)
+❖ PRESENTATION 
+DRAFT instruction:[CAD Group Project - Presentation Details (DRAFT).pdf](https://github.com/user-attachments/files/27249260/CAD.Group.Project.-.Presentation.Details.DRAFT.pdf)
 
 Submission 1
 - [Presentation submission 1.pdf](https://github.com/user-attachments/files/27251254/Presentation.submission.1.pdf)
@@ -161,8 +162,19 @@ Submission 2: Keep the required agenda materials, but kept in mind what Tim's sa
 
 👉 Final Test: Parking lot grading, Servicing underground network, ESC
 
+279KB, [Test #2 - Final-GRADING (feedback).pdf](https://github.com/user-attachments/files/27311369/Test.2.-.Final-GRADING.feedback.pdf)
+
+358KB, [Test #2 - Final-EROSION (feedback).pdf](https://github.com/user-attachments/files/27311368/Test.2.-.Final-EROSION.feedback.pdf)
+
+434KB, [Test #2 - Final-SERVICING.pdf](https://github.com/user-attachments/files/27311367/Test.2.-.Final-SERVICING.pdf)
+
+AutoCAD file: 
 
 👉 Erosion & Sediment Control (ESC) and Detail Sheets - WEEK 10
+
+[DUONG-200639353-BASEPLAN-Assign5_W26_ESC PLAN.pdf](https://github.com/user-attachments/files/27311405/DUONG-200639353-BASEPLAN-Assign5_W26_ESC.PLAN.pdf)
+
+[DUONG-200639353-BASEPLAN-Detail Sheet_Assign5_W26.pdf](https://github.com/user-attachments/files/27311404/DUONG-200639353-BASEPLAN-Detail.Sheet_Assign5_W26.pdf)
 
 
 
