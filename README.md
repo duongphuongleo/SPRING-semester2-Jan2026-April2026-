@@ -106,10 +106,10 @@ Week 5: Test 1
  
 # AutoCAD 2 - Instructor: Tim Gignac
 👉 Final Group Project (week 12-14)
-- CAD options: Parking lot grading, Plan & Profile
+- Project options: Parking lot grading, Plan & Profile
 - Presentation
 
-❖ Jack's CAD submission 1: Fri April 10 at 4pm
+❖ Group's submission 1: Plan & Profile, Fri April 10 at 4pm
 - 1 day ahead of due date
 
 [EROSION CONTROL PLAN GROUP 6.pdf](https://github.com/user-attachments/files/27279039/EROSION.CONTROL.PLAN.GROUP.6.pdf)
@@ -123,8 +123,8 @@ Week 5: Test 1
 [P&P STREET B.pdf](https://github.com/user-attachments/files/27279045/P.P.STREET.B.pdf)
 
 
-❖ Group final CAD submission: Plan & Profile, Fri April 10 at 6:50pm
-- include my input for: the silt fence perimeter re set-up (as learn from Final Test's feedback on Erosion & Sediment Control (ESC))
+❖ Group final submission: Plan & Profile, Fri April 10 at 6:50pm
+- include my input for: the silt fence perimeter re set-up (as learn from Final Test's feedback on Erosion & Sediment Control (ESC)
 - my assigned task carried out (reorganize OPS Detail Sheets and compose the submission drawing)
 
 [Plan & Profile_GROUP 6-DETAIL SHEET 2.pdf](https://github.com/user-attachments/files/27278396/Plan.Profile_GROUP.6-DETAIL.SHEET.2.pdf)
