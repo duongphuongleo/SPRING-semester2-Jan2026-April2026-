@@ -205,5 +205,21 @@ Expanding upon the topics from SURV1001, we continue to develop intricate survey
 
 ❖ In this course, we had design and deliver a series of presentations that build our skills in storytelling, “how to” explanations, persuasion, and visual communication. The focus stays on clarity, audience connection, and using their voice and media in ways that support the speaker, not just slides.
 
-# Apply to Co-op
-❖ Interviewed but yet successful: GEI Consultants, Duncor Enterprises
+# Co-op semester
+❖ Applied and yet hear a reply: 
+- J.K Donald Consultants
+- Axicon Group Inc.
+- Fowler Construction
+- The Township of Springwater
+- Town of Bradford West Gwillimbury
+- County of Simcoe,
+- Tatham Engineering
+
+❖ Applied, been replied, but yet successful: 
+- EXP: replied on March 4
+
+❖ Interviewed but yet successful: 
+- Duncor Enterprises: interviewed on April 7, replied on April 13
+- GEI Consultants: interviewed on Feb 11, replied on March 16
+
+❖ (post May 4, 2026) Perspective to secure an interview: Soil Engineer Ltd.
