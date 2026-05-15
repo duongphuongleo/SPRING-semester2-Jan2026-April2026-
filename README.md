@@ -219,11 +219,31 @@ Expanding upon the topics from SURV1001, we continue to develop intricate survey
 - EXP: replied on March 4
 
 ❖ Interviewed but yet successful: 
-- Duncor Enterprises: interviewed on April 7, replied on April 13
-- GEI Consultants: interviewed on Feb 11, replied on March 16
+- Duncor Enterprises, Barrie: interviewed on April 7, replied on April 13
+- GEI Consultants, Barrie: interviewed on Feb 11, replied on March 16
 
-❖ (past May 4, 2026) Perspective to secure an interview: Soil Engineer Ltd
-- 
-❖ (past May 10, 2026) Perspective to secure an interview: Aecon Group Inc.
-- Co-op, Assistant Coordinator, Estimating (Applied on May 12)
-- Co-op, Assistant Coordinator, Design (Applied on May 13)
+❖ (Past May 4, 2026) Perspective to secure an interview: Soil Engineer Ltd
+- Open position: 2
+- Start Date:	05/01/2026
+- End Date:	08/31/2026
+- Organization Information:
+👉 Organization:	Soil Engineers Ltd.
+👉 Division:	Richmond Hill
+👉 Contact Person:	Mrs. Lani Paparro, HR Administrator
+- Job Post Information:
+👉 Field Technician - Material Testing & Inspection
+👉 Location:	Central Ontario (Barrie, Peterborough, Huntsville)
+👉 Job Duties:
+- Travel to construction sites throughout Southern and Central Ontario and supervise construction activities.
+- Duties Include: site inspection, material testing (soil, asphalt, concrete) using nuclear gauge, material sampling, data collection and general geotechnical work supervision.
+
+The ideal candidate must be able to: 
+- communicate effectively and demonstrate strong interpersonal skills.
+- must possess excellent verbal and written English skills,
+- be well organized,
+- flexible with their schedule and
+- be able to deliver results on time.
+
+❖ (Past May 10, 2026) Perspective to secure an interview: Aecon Group Inc.
+- Toronto Co-op, Assistant Coordinator, Estimating (Applied on May 12)
+- Toronto Co-op, Assistant Coordinator, Design (Applied on May 13)
