@@ -215,11 +215,15 @@ Expanding upon the topics from SURV1001, we continue to develop intricate survey
 - County of Simcoe,
 - Tatham Engineering
 
-❖ Applied, been replied, but yet successful: 
+❖ Applied, has been replied, but yet successful: 
 - EXP: replied on March 4
 
 ❖ Interviewed but yet successful: 
 - Duncor Enterprises: interviewed on April 7, replied on April 13
 - GEI Consultants: interviewed on Feb 11, replied on March 16
 
-❖ (post May 4, 2026) Perspective to secure an interview: Soil Engineer Ltd.
+❖ (past May 4, 2026) Perspective to secure an interview: Soil Engineer Ltd
+- 
+❖ (past May 10, 2026) Perspective to secure an interview: Aecon Group Inc.
+- Co-op, Assistant Coordinator, Estimating (Applied on May 12)
+- Co-op, Assistant Coordinator, Design (Applied on May 13)
