@@ -227,12 +227,19 @@ Expanding upon the topics from SURV1001, we continue to develop intricate survey
 - Start Date:	05/01/2026
 - End Date:	08/31/2026
 - Organization Information:
+
 👉 Organization:	Soil Engineers Ltd.
+
 👉 Division:	Richmond Hill
+
 👉 Contact Person:	Mrs. Lani Paparro, HR Administrator
+
 - Job Post Information:
+
 👉 Field Technician - Material Testing & Inspection
+
 👉 Location:	Central Ontario (Barrie, Peterborough, Huntsville)
+
 👉 Job Duties:
 - Travel to construction sites throughout Southern and Central Ontario and supervise construction activities.
 - Duties Include: site inspection, material testing (soil, asphalt, concrete) using nuclear gauge, material sampling, data collection and general geotechnical work supervision.
