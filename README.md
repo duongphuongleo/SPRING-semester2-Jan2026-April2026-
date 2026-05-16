@@ -219,8 +219,25 @@ Expanding upon the topics from SURV1001, we continue to develop intricate survey
 - EXP: replied on March 4
 
 ❖ Interviewed but yet successful: 
-- Duncor Enterprises, Barrie: interviewed on April 7, replied on April 13
-- GEI Consultants, Barrie: interviewed on Feb 11, replied on March 16
+👉 Duncor Enterprises, Barrie: interviewed on April 7, replied on April 13
+Open position: 1
+- Application Deadline: March 26 at 12noon
+- Applied: March 12 at 4PM
+- Start Date:	
+- End Date:	
+- Organization Information: Name of company, Division/City:
+- Contact Person:	Mr./Mrs., Divisional Manager/HR Administrator
+- Job Post Information:
+👉 Lab Technician
+
+👉 Location: Barrie, ON
+
+👉 Job Duties:
+
+
+
+👉 GEI Consultants, Barrie: interviewed on Feb 11, replied on March 16
+
 
 ❖ (Past May 4, 2026) Perspective to secure an interview: Soil Engineer Ltd.
 - Open position: 2
@@ -235,11 +252,12 @@ Expanding upon the topics from SURV1001, we continue to develop intricate survey
 👉 Field Technician - Material Testing & Inspection
 
 👉 Location:	Central Ontario (Barrie, Peterborough, Huntsville)
+
 👉 Job Duties:
 - Travel to construction sites throughout Southern and Central Ontario and supervise construction activities.
 - Duties Include: site inspection, material testing (soil, asphalt, concrete) using nuclear gauge, material sampling, data collection and general geotechnical work supervision.
 
-The ideal candidate must be able to: 
+👉 The ideal candidate must be able to: 
 - communicate effectively and demonstrate strong interpersonal skills.
 - must possess excellent verbal and written English skills,
 - be well organized,
