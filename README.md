@@ -219,8 +219,10 @@ Expanding upon the topics from SURV1001, we continue to develop intricate survey
 - EXP: replied on March 4
 
 ❖ Interviewed but yet successful: 
+
 👉 Duncor Enterprises, Barrie: interviewed on April 7, replied on April 13
-Open position: 1
+
+- Open position: 1
 - Application Deadline: March 26 at 12noon
 - Applied: March 12 at 4PM
 - Start Date:	
