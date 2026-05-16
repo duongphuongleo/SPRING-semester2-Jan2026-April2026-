@@ -221,25 +221,32 @@ Expanding upon the topics from SURV1001, we continue to develop intricate survey
 ❖ Interviewed but yet successful: 
 
 👉 Duncor Enterprises, Barrie: interviewed on April 7, replied on April 13
-
 - Open position: 1
 - Application Deadline: March 26 at 12noon
 - Applied: March 12 at 4PM
+- Start Date:	May 4
+- End Date:	
+- Organization Information: Name of company, Division/City:
+- Contact Person:	Mr./Mrs., Divisional Manager/HR Administrator
+- Job Post Information:
+  - Lab Technician
+  - Location: Barrie, ON
+  - Job Duties:
+
+
+
+👉 GEI Consultants, Barrie: interviewed on Feb 11, replied on March 16
+- Open position: 
+- Application Deadline: at 12noon
+- Applied:  at PM
 - Start Date:	
 - End Date:	
 - Organization Information: Name of company, Division/City:
 - Contact Person:	Mr./Mrs., Divisional Manager/HR Administrator
 - Job Post Information:
-👉 Lab Technician
-
-👉 Location: Barrie, ON
-
-👉 Job Duties:
-
-
-
-👉 GEI Consultants, Barrie: interviewed on Feb 11, replied on March 16
-
+  - Lab Technician
+  - Location:
+  - Job Duties:
 
 ❖ (Past May 4, 2026) Perspective to secure an interview: Soil Engineer Ltd.
 - Open position: 2
