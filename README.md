@@ -3,8 +3,6 @@
 # Material Science - Instructor: Michael Scott 
 The course introduces us to construction materials, including types of soils, aggregates involved in concrete and asphalt mix, and their applications in civil engineering projects. We're introduced to engineering standards and the standard test methods associated with these construction materials.
 
-
-
 👉 Atterberg Limit lab & Compaction lab 1
 
 👉 Aggregates Physical lab 2 (sorting by unwanted physical shapes, texture contaminant with asphalt)
@@ -224,13 +222,19 @@ Expanding upon the topics from SURV1001, we continue to develop intricate survey
 - Open position: 1
 - Application Deadline: March 26 at 12noon
 - Applied: March 12 at 4PM
-- Start Date:	May 4
-- End Date:	
+- What do I Know more after the interview?
+  - Interview by: Mr. Peter Smith, Lab Supervisor
+  - Start Date: May 4
+  - Work week: 8AM to 4:30PM Mon-Fri
+  - PPE: Pass the ankle Safety boot, long pants, other PPE is provided in the lab
+  - The Lab postion is for: Quality Control the aggregates & emulsion for Duncor's product and in-house production process. Not for any clients/contractor's order request
 - Organization Information: Name of company, Division/City:
 - Contact Person:	Mr./Mrs., Divisional Manager/HR Administrator
 - Job Post Information:
-  - Lab Technician
+  - Lab Technician, 
   - Location: Barrie, ON
+  - Start Date:	May 4
+  - End Date:	
   - Job Duties:
 
 
@@ -239,13 +243,14 @@ Expanding upon the topics from SURV1001, we continue to develop intricate survey
 - Open position: 
 - Application Deadline: at 12noon
 - Applied:  at PM
-- Start Date:	
-- End Date:	
+- What do I Know more? (After the interview)
 - Organization Information: Name of company, Division/City:
 - Contact Person:	Mr./Mrs., Divisional Manager/HR Administrator
 - Job Post Information:
   - Lab Technician
   - Location:
+  - Start Date:
+  - End Date:
   - Job Duties:
 
 ❖ (Past May 4, 2026) Perspective to secure an interview: Soil Engineer Ltd.
