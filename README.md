@@ -222,24 +222,19 @@ Expanding upon the topics from SURV1001, we continue to develop intricate survey
 - Duncor Enterprises, Barrie: interviewed on April 7, replied on April 13
 - GEI Consultants, Barrie: interviewed on Feb 11, replied on March 16
 
-❖ (Past May 4, 2026) Perspective to secure an interview: Soil Engineer Ltd
+❖ (Past May 4, 2026) Perspective to secure an interview: Soil Engineer Ltd.
 - Open position: 2
+- Application Deadline: May 14 at 12noon
+- Applied: May 3 at 2:30PM
 - Start Date:	05/01/2026
 - End Date:	08/31/2026
-- Organization Information:
-
-👉 Organization:	Soil Engineers Ltd.
-
-👉 Division:	Richmond Hill
-
-👉 Contact Person:	Mrs. Lani Paparro, HR Administrator
-
+- Organization Information: Soil Engineers Ltd., Division/City:	Richmond Hill
+- Contact Person:	Mrs. Lani Paparro, HR Administrator
 - Job Post Information:
 
 👉 Field Technician - Material Testing & Inspection
 
 👉 Location:	Central Ontario (Barrie, Peterborough, Huntsville)
-
 👉 Job Duties:
 - Travel to construction sites throughout Southern and Central Ontario and supervise construction activities.
 - Duties Include: site inspection, material testing (soil, asphalt, concrete) using nuclear gauge, material sampling, data collection and general geotechnical work supervision.
